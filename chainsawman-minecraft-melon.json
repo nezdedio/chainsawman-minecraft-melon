@@ -148,7 +148,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -173,7 +173,7 @@
             "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/4.png",
             "bg" : "#2DD4BF"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "quiz",
             "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/5.png",
             "bg" : "#4ADE80"
@@ -183,12 +183,12 @@
             "ico" : "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/a6eea5aa95cc31102ab50d87b12ccde0.png",
             "bg" : "#2196F3"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "more",
             "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/8.png",
             "bg" : "#673AB7"
