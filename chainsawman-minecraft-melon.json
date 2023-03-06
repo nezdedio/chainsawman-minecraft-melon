@@ -32,8 +32,8 @@
 
             "iron_source_key": "",
 
-            "diamond": "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/diamo.png",
-            "cover": "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/kk.png",
+            "diamond": "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/diamond.png",
+            "cover": "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/co.png",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -155,42 +155,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/1.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/2.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/33.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/4.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/4.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/5.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/5.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/a6eea5aa95cc31102ab50d87b12ccde0.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/6.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/7.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/8.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/8.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/9.png",
             "bg" : "#673AB7"
         }
     ],
@@ -259,105 +259,111 @@
     
     "scratch" : [
         {
-            "img" : "https://i.quotev.com/nmk7j5mjtdla.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/1.png"
         },{
-            "img" : "https://i.quotev.com/enuv4jhvydrq.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/5.png"
         },{
-            "img" : "https://i.quotev.com/tl2gy3ok3zwa.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/7.png"
         },{
-            "img" : "https://i.quotev.com/yq67tsyngxxa.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/4.png"
         },{
-            "img" : "https://i.quotev.com/ni63wy6edkva.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/30.png"
+        },{
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/15.png"
+        },{
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/20.png"
+        },{
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/25.png"
         }
     ],
 
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/564x/d4/06/fb/d406fb8b4dd19d2400877921eedb3c2b.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/1.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/4a/28/12/4a2812d85208576bf4c1ef51aabc7c44.gif"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/1.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/5a/1a/71/5a1a71732e7db257f4e437e9286b15c4.gif"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/29.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/26/ae/cc/26aecce5396c39c3eee985391df006d4.gif"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/24.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/cf/40/b3/cf40b3f5220f3e858635165b26723c1b.gif"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/13.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/564x/42/94/df/4294df8deb9fd3cc2623e2e1d03aa44a.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/18.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/564x/58/ca/85/58ca8565df22602e5829fd9927fcc658.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/16.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/564x/57/b3/5c/57b35c4192655813982ecc5ec984e294.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/14.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/564x/f3/29/61/f32961e4084297823dd2d4b19353abb8.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/9.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/564x/f6/2f/a8/f62fa8a6beb492587cfcd7027962fbf0.jpg"
+            "img" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/10.png"
         }
     ],
     
     "data" : [
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "J.Biebs",
-            "img1" : "https://i.quotev.com/nmk7j5mjtdla.jpg",
-            "img2" : "https://i.quotev.com/g5qasdlb3ddq.jpg",
-            "part1" : "SPECIAL SURVIVAL ABILITY",
-            "part2" : "J.Biebs is a man who wants to unite a fractured world. Through his childhood experiences, he learned that the answer to people’s problems is not money or power but the actual connection between people. He has decided to use his singing skills to dedicate his life to reunite the world."
+            "urlimg" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/28.png",
+            "name" : "Denji",
+            "img1" : "https://static.wikia.nocookie.net/chainsaw-man/images/7/7e/Denji_anime_design_2.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/29.png",
+            "part1" : "is the titular protagonist of the Chainsaw Man manga and anime series, and the main protagonist of the Public Safety Saga.",
+            "part2" : "As a young boy, he inherits his father's debts from the Yakuza. After meeting Pochita, he becomes a Devil Hunter for the Yakuza in an attempt to clear his debt. Once the Yakuza, under the control of a Devil, betrays him, he dies and Pochita becomes his heart. He now becomes the Chainsaw Man by pulling a cord on his chest. After meeting Makima, he became a Public Safety Devil Hunter."
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/27.png",
             "name" : "Homer",
-            "img1" : "https://i.quotev.com/6b735o2xigca.jpg",
-            "img2" : "https://i.quotev.com/tl2gy3ok3zwa.jpg",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/10.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/11.png",
             "part1" : "Senses Shockwave",
             "part2" : "Releases a drone towards the nearest enemy within a 100m frontal distance, creating a 5m-diameter pulse explosion which reduces movement speed by 10% and firing speed by 10%."
         },
         
         {
             "url" : "",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
+            "urlimg" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/22.png",
             "name" : "Kenta",
-            "img1" : "https://i.quotev.com/enuv4jhvydrq.jpg",
-            "img2" : "https://i.quotev.com/nmk7j5mjtdla.jpg",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/24.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/23.png",
             "part1" : "Swordsman‘s Wrath",
             "part2" : "Forms a frontal shield of 5m width that reduces 65% weapon damage coming from the front. Lasts for 5s and resets when user fires a shot. CD: 120s.Kenta served as a bodyguard and bladesmith for Hayato Yagamis family for years. He is a man of few words but protects his new, young master in whatever situation they find themselves in. He does have his own personal desires, but he puts them on the backburner as he serves Hayato during a dangerous time for the Yagami family."
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/21.png",
             "name" : "Nairi",
-            "img1" : "https://i.quotev.com/qn4k3m4vgr5a.jpg",
-            "img2" : "https://i.quotev.com/yq67tsyngxxa.jpg",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/20.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/19.png",
             "part1" : "Ice Iron",
             "part2" : "Gloowalls deployed will recover 40% of current durability every 1s when damage is taken. Damage increased 30% when using ARs on Gloo WallsNairi found an interest in weather at a young age when he was forced away from cold climates. But his love for snow led him to find a way to get himself back there. He developed micromanipulation climate technology to allow him to survive in the most extreme environments. Now he spends his time rock climbing, hiking and chasing storms looking for the answers to predicting climate."
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/18.png",
             "name" : "Alvaro",
-            "img1" : "https://i.quotev.com/tl2gy3ok3zwa.jpg",
-            "img2" : "https://i.quotev.com/yq67tsyngxxa.jpg",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/17.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/wall/16.png",
             "part1" : "Art of Demolition",
             "part2" : "Explosive weapon damage increases by 10%, damage range increases by 7%.Alvaro is a young man with an explosive personality. A childhood accident gifted him with special explosive powers, at the cost of his memories. He is lost in a constant circle of searching for his memories and needing to use his powers to save those he cares for. The only constant he has found in his life is Kapella, his childhood best friend, whom he no longer consciously remembers."
         }
