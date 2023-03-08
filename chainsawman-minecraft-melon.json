@@ -183,7 +183,7 @@
             "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/6.png",
             "bg" : "#2196F3"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
             "ico" : "https://raw.githubusercontent.com/nezdedio/chainsawman-minecraft-melon/main/art/8.png",
             "bg" : "#3F51B5"
